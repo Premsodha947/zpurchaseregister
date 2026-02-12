@@ -1,0 +1,4 @@
+@EndUserText.label: 'ZTEXT_CODE_TMG'
+define service ZTEXT_CODE_TMG {
+  expose ZTEXT_CODE_TMG_CDS as TextCodeTMG;
+}
