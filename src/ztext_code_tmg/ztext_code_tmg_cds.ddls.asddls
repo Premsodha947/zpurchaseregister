@@ -11,4 +11,3 @@ define root view entity ZTEXT_CODE_TMG_CDS as select from ztext_code_tmg1
     description as Description,
     percentage as Percentage
 }
- 

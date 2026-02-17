@@ -1,0 +1,34 @@
+{
+  "formatVersion": "2",
+  "header": {
+    "description": "Maintain Tax Code TMG",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD",
+    "targetMappingTitle": "Maintain TaxCode-TMG"
+  },
+  "ui5AppDetails": {
+    "appId": "ztextcode_tmg"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_AF175DABF4B84098C8B0F8BB6E3730438F67BE90_TM",
+    "semanticObject": "ztextcode_tmg",
+    "action": "display",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_AF175DABF4B84098C8B0F8BB6E3730438F67BE90_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "Maintain TaxCode-TMG"
+      }
+    }
+  ]
+}

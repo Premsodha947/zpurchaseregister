@@ -1,4 +1,4 @@
-CLASS lhc_ztext_code_tmg_cds DEFINITION INHERITING FROM cl_abap_behavior_handler.
+CLASS lhc_ZTEXT_CODE_TMG_CDS DEFINITION INHERITING FROM cl_abap_behavior_handler.
   PRIVATE SECTION.
 
     METHODS get_instance_authorizations FOR INSTANCE AUTHORIZATION
@@ -6,7 +6,7 @@ CLASS lhc_ztext_code_tmg_cds DEFINITION INHERITING FROM cl_abap_behavior_handler
 
 ENDCLASS.
 
-CLASS lhc_ztext_code_tmg_cds IMPLEMENTATION.
+CLASS lhc_ZTEXT_CODE_TMG_CDS IMPLEMENTATION.
 
   METHOD get_instance_authorizations.
   ENDMETHOD.
